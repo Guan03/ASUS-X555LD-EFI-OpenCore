@@ -5,3 +5,5 @@ ASUS-X555LD-EFI-OpenCore
 3.睡眠（除Monterey其它版本睡眠正常）
 4.声卡
 Catalina基于官方OpenCore0.7.5 其他版本基于官方OpenCore0.7.6
+Tips：
+用于引导Monterey版本的EFI并未完全 仅可作用于引导！！！
